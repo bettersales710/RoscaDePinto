@@ -1,4 +1,3 @@
-# Imports
 import turtle
 from datetime import date
 
